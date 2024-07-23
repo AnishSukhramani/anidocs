@@ -9,7 +9,7 @@ const Header = ({ children, className }: HeaderProps) => {
     <div className={cn("header", className)}>
         <Link href='/' className='md:flex-1'>
             <Image
-                src="/assets/images/logo.png"
+                src="/assets/images/logo2.png"
                 alt='Logo with name'
                 width={60}
                 height={60}
